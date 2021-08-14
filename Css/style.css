@@ -3,3 +3,12 @@ h1{
     color: brown;
     background-color: antiquewhite;
 }
+nav{
+    text-align: center;
+}
+nav a{
+    padding-left: 5px;
+    margin: auto;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
